@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AuroSmita
+# 👋 Hi, I'm Aurosmita
 
 **Computer Science Student | Full-Stack Developer | Java Backend Specialist**
 
@@ -149,6 +149,6 @@ Digital library platform with:
 
 ---
 
-*Last Updated: December 2024*
+
 
 ⭐ *Feel free to explore my repositories and connect for collaboration!*
