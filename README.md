@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Auro Smita
+# 👋 Hi, I'm AuroSmita
 
 **Computer Science Student | Full-Stack Developer | Java Backend Specialist**
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📂 **Featured Projects**
+## 📂 **My Projects**
 
 ### 🛒 **E-Commerce Web Application**
 A complete online shopping platform with:
@@ -101,7 +101,7 @@ Digital library platform with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurosmitasahoo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auro993)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurosmitasahoo4@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aurosmita/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aurosmitasahoo/)
 
 ---
 
