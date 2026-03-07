@@ -40,34 +40,8 @@
 
 ---
 
-## 📂 **My Projects**
 
-### 🛒 **E-Commerce Web Application**
-A complete online shopping platform with:
-- ✅ User Registration & Authentication
-- ✅ Product Catalog with Categories & Filters  
-- ✅ Shopping Cart & Wishlist Functionality
-- ✅ Checkout Process & Payment Integration
-- ✅ Order Management & Tracking
-- ✅ Admin Dashboard
 
-**Tech Stack:** Java | JSP | Servlet | MySQL | HTML | CSS | JavaScript | JDBC
-
-**[🔗 View E-Commerce Repository](https://github.com/Auro993/e-commerce)**
-
-### 📚 **E-Books Management System**
-Digital library platform with:
-- ✅ User Authentication & Role Management
-- ✅ Browse & Search Books with Filters
-- ✅ Add to Cart & Checkout System
-- ✅ Admin Panel for Book Management
-- ✅ Order History Tracking
-
-**Tech Stack:** Java | JSP | Servlet | MySQL | HTML | CSS | JDBC
-
-**[🔗 View E-Books Repository](https://github.com/Auro993/e-books-management)**
-
----
 
 ## 🎯 **Learning Roadmap**
 
