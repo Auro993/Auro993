@@ -116,8 +116,6 @@
 
 ## 📈 **Recent Highlights**
 
-- **E-Commerce Platform**: Built a full-featured shopping application from scratch
-- **E-Books System**: Developed a complete digital library management system
 - **Tech Transition**: Successfully moving from traditional Java EE to modern Spring Boot
 - **Continuous Learning**: Actively expanding skills in React, Angular, and cloud technologies
 
