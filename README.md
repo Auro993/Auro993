@@ -42,34 +42,6 @@
 
 
 
-
-## 🎯 **Learning Roadmap**
-
-### ✅ **Completed**
-- Java Core & OOP Principles
-- JSP, Servlets & JDBC
-- MySQL Database Design
-- HTML5, CSS3, JavaScript
-- Git & GitHub Version Control
-
-### 🔄 **Currently Learning**
-- **Spring Boot** Framework
-- **React** with Hooks & Context API
-- **Angular** Framework
-- **Hibernate** ORM
-- **Docker** Containerization
-- **Data Structures & Algorithms**
-
-### 📋 **Future Goals**
-- [ ] Master Spring Cloud & Microservices
-- [ ] Learn AWS Cloud Services
-- [ ] Build CI/CD Pipelines
-- [ ] Contribute to Open Source Projects
-- [ ] Explore GraphQL & REST APIs
-- [ ] Develop Mobile Applications
-
----
-
 ## 📫 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurosmitasahoo)
@@ -78,49 +50,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aurosmitasahoo/)
 
 ---
-
-## 💡 **Development Philosophy**
-
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-**My Principles:**
-- ✅ Write clean, readable, and maintainable code
-- ✅ Follow best practices and design patterns
-- ✅ Continuous learning and skill improvement
-- ✅ Build scalable and efficient applications
-- ✅ Test-driven development approach
-
----
-
-## 🌟 **Key Strengths**
-
-### **Backend Development**
-- Strong Java fundamentals
-- Experience with JSP/Servlets architecture
-- Database design with MySQL
-- Currently mastering Spring Boot ecosystem
-
-### **Frontend Skills**
-- Building responsive web interfaces
-- Modern JavaScript development
-- Learning React & Angular frameworks
-- UI/UX design principles
-
-### **Project Management**
-- Full project lifecycle experience
-- Version control with Git/GitHub
-- Agile development methodology
-- Documentation & code organization
-
----
-
-## 📈 **Recent Highlights**
-
-- **Tech Transition**: Successfully moving from traditional Java EE to modern Spring Boot
-- **Continuous Learning**: Actively expanding skills in React, Angular, and cloud technologies
-
----
-
 
 
 ⭐ *Feel free to explore my repositories and connect for collaboration!*
