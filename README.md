@@ -31,6 +31,63 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+### Aurosmita Sahoo's GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>⭐ Stars</h3>
+      <h1>16</h1>
+    </td>
+    <td align="center">
+      <h3>📝 Commits</h3>
+      <h1>503</h1>
+    </td>
+    <td align="center">
+      <h3>🔀 PRs</h3>
+      <h1>20</h1>
+    </td>
+    <td align="center">
+      <h3>🐛 Issues</h3>
+      <h1>38</h1>
+    </td>
+    <td align="center">
+      <h3>🤝 Repos</h3>
+      <h1>23</h1>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+| Language | Percentage |
+|----------|------------|
+| **JavaScript** | ████████████████████████████████████ 37.67% |
+| **Java** | ██████████████████ 18.57% |
+| **TypeScript** | █████████████████ 16.54% |
+| **HTML** | █████████████ 13.57% |
+| **CSS** | ██████████ 10.04% |
+| **Python** | ███ 3.61% |
+
+</div>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auro993&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auro993&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🔙 Backend Development
@@ -75,7 +132,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -102,18 +158,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auro993&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Auro993&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auro993&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -122,7 +166,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auro993)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurosmitasahoo4@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aurosmitasahoo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
 
