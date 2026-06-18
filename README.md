@@ -1,13 +1,20 @@
-# 👋 Hi, I'm Aurosmita
+<div align="center">
+  
+### 👋 Hi, I'm Aurosmita
 
-**Computer Science Student | Full-Stack Developer | Java Backend Specialist**
+[![Full Stack Engineer](https://img.shields.io/badge/Full_Stack_Engineer-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Auro993)
+[![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Auro993)
+[![Backend AI Developer](https://img.shields.io/badge/Backend_AI_Developer-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Auro993)
 
-🔭 Passionate about building scalable web applications and continuously expanding my tech stack.  
-🌱 Currently transitioning from traditional Java EE to modern microservices architecture.  
-💡 Strong foundation in backend development with growing expertise in modern frontend frameworks.  
+[![Java Developer](https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Auro993)
+[![Spring Boot Expert](https://img.shields.io/badge/Spring_Boot_Expert-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/Auro993)
+[![Microservices Developer](https://img.shields.io/badge/Microservices_Developer-005571?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Auro993)
 
----
+[![AI Developer](https://img.shields.io/badge/AI_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Auro993)
+[![React Developer](https://img.shields.io/badge/React_Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Auro993)
+[![Cloud Developer](https://img.shields.io/badge/Cloud_Developer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Auro993)
 
+</div>
 ## 🛠️ **Tech Stack**
 
 ### **Backend Development**
