@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Aurosmita Sahoo
+# 👋 Hi, I'm Aurosmita Sahoo 
 
 <br>
 
