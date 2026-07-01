@@ -2,144 +2,134 @@
 
 # 👋 Hi, I'm **Aurosmita Sahoo**
 
-### 🚀 Full Stack Developer • Java Backend Developer • Open Source Contributor
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Java+Backend+Developer;💻+Full+Stack+Developer;🤖+AI+Developer;🌍+Open+Source+Contributor;📚+DSA+%7C+LeetCode+Learner;☁️+Future+Software+Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;DSA+%7C+LeetCode+Learner;Building+AI-powered+Applications" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Auro993&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/Auro993?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Auro993?style=for-the-badge&logo=github" />
 
 ---
 
 ## 💫 About Me
 
-🎓 Final-year Computer Science Engineering student
+🎓 Final Year Computer Science Engineering Student
 
 💻 Passionate about building scalable backend systems and modern web applications.
 
-🌱 Currently learning:
+🚀 Currently focused on:
 
-* Spring Boot & Spring Security
-* Microservices
-* System Design
-* Data Structures & Algorithms (LeetCode)
-* AI-powered Full Stack Applications
+🌱 Spring Boot • Microservices • System Design
 
-🚀 Actively contributing to Open Source and building real-world projects.
+🤖 AI Applications • LLMs • FastAPI
 
----
+💡 React • Next.js • TypeScript
 
-# 🛠 Tech Stack
+📚 Solving LeetCode & Strengthening DSA
 
-## Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+🌍 Open Source Contributor
 
 ---
 
-## Frontend
+## ⚡ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,typescript,javascript,python,fastapi,mongodb,mysql,postgres,redis,docker,git,github,linux,aws,tailwind,vscode,postman&perline=7"/>
 
 ---
 
-## Database
+## 🚀 Featured Projects
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-## AI & Backend Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+| Project | Tech |
+|---------|------|
+| 🤖 AuraGen | AI • Spring Boot • OpenAI |
+| 🍽️ DineFlow | MERN Stack |
+| 📄 Resume Builder | React • Node.js |
+| 🧠 Pathfinder AI | Next.js • AI |
+| 🏥 Hospital Management System | Java • MySQL |
 
 ---
 
-## Dev Tools
+## 📈 GitHub Analytics
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Auro993&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auro993&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=Auro993&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Auro993\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Auro993\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Auro993\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auro993&theme=tokyonight"/>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Auro993\&theme=tokyonight\&no-frame=true\&margin-w=15)
-
----
-
-# 📈 Contribution Graph
-
-[![Aurosmita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Auro993\&theme=tokyo-night)](https://github.com/Auro993)
+<img src="https://github-profile-trophy.vercel.app/?username=Auro993&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 ---
 
-# 🎯 Current Goals
+## 📊 Contribution Graph
 
-* 🚀 Master Spring Boot & Microservices
-* 💯 Solve 500+ LeetCode problems
-* 🌍 Contribute to Open Source consistently
-* 🤖 Build AI-powered Full Stack Applications
-* ☁️ Learn Cloud Deployment & DevOps
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Auro993&theme=tokyo-night"/>
 
 ---
 
-# 📫 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/Auro993/Auro993/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Spring Boot
+
+✅ Hibernate
+
+🔄 Microservices
+
+🔄 Docker
+
+🔄 Kubernetes
+
+🔄 AWS
+
+🔄 System Design
+
+🔄 Redis
+
+🔄 Kafka
+
+🔄 Elasticsearch
+
+🔄 AI Agents
+
+🔄 500+ LeetCode Problems
+
+🔄 GSoC 2027
+
+---
+
+## 🌐 Connect With Me
 
 <a href="https://github.com/Auro993">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aurosmitasahoo">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:aurosmitasahoo4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/aurosmitasahoo/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116"/>
 </a>
-
-</p>
 
 ---
 
-<div align="center">
+> **"Code • Learn • Build • Contribute • Repeat 🚀"**
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Share. Repeat."*
+⭐ **Thanks for visiting my profile!**
 
 </div>
