@@ -2,117 +2,155 @@
 
 # 👋 Hi, I'm **Aurosmita Sahoo**
 
-### 🚀 Full Stack Developer • Java Backend Developer • Open Source Contributor
+### Full Stack Developer • Java Backend Developer • Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;DSA+%7C+LeetCode+Learner;Building+AI-powered+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+Developer;Full+Stack+Web+Developer;Open+Source+Contributor;DSA+%7C+LeetCode+Learner;Exploring+AI+Powered+Applications" />
+
+<p>
+  <a href="https://github.com/Auro993">
+    <img src="https://img.shields.io/github/followers/Auro993?label=Followers&style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Auro993&style=for-the-badge&color=blue" />
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 Final-year Computer Science Engineering student
+🎓 Final-year Computer Science Engineering Student
 
-💻 Passionate about building scalable backend systems and modern web applications.
+💻 Passionate about building scalable backend systems, modern web applications, and AI-powered software.
 
-🌱 Currently learning:
+🚀 Currently focused on
 
-* Spring Boot & Spring Security
-* Microservices
+* Java & Spring Boot
+* Spring Security & JWT Authentication
+* REST APIs & Microservices
+* React & Next.js
 * System Design
 * Data Structures & Algorithms (LeetCode)
-* AI-powered Full Stack Applications
+* Open Source Contributions
 
-🚀 Actively contributing to Open Source and building real-world projects.
-
----
-
-# 🛠 Tech Stack
-
-## Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+🌱 I enjoy solving real-world problems through clean architecture, scalable design, and modern development practices.
 
 ---
 
-## Frontend
+# ⚡ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+</p>
+
+### 🚀 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### ☁ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
+</p>
+
+### 🤖 AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
 
 ---
 
-## Database
+# 🚀 Featured Projects
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### 🔹 AuraGen
 
----
+AI-powered Self-Healing UI platform capable of automatically detecting UI failures, generating fixes using LLMs, and validating corrections before deployment.
 
-## AI & Backend Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+**Tech Stack:** React • Spring Boot • FastAPI • AI • Docker
 
 ---
 
-## Dev Tools
+### 🔹 Full Stack Restaurant Management System
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+A production-ready restaurant platform with authentication, menu management, ordering system, admin dashboard, and REST APIs.
+
+**Tech Stack:** React • Node.js • Express • MongoDB
 
 ---
 
-# 📊 GitHub Stats
+### 🔹 Java Spring Boot Backend APIs
+
+Developed scalable backend services with authentication, JWT security, role-based authorization, RESTful architecture, and database integration.
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Auro993\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Auro993&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Auro993\&theme=tokyonight\&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Auro993&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Auro993\&layout=compact\&theme=tokyonight\&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auro993&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Auro993\&theme=tokyonight\&no-frame=true\&margin-w=15)
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Auro993&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-# 📈 Contribution Graph
-
-[![Aurosmita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Auro993\&theme=tokyo-night)](https://github.com/Auro993)
+</div>
 
 ---
 
-# 🎯 Current Goals
+# 📊 Contribution Graph
 
-* 🚀 Master Spring Boot & Microservices
-* 💯 Solve 500+ LeetCode problems
-* 🌍 Contribute to Open Source consistently
-* 🤖 Build AI-powered Full Stack Applications
-* ☁️ Learn Cloud Deployment & DevOps
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Auro993&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 🎯 2026 Goals
+
+* ✅ Become an Expert in Spring Boot
+* ✅ Master Microservices Architecture
+* ✅ Solve 500+ LeetCode Problems
+* ✅ Contribute Consistently to Open Source
+* ✅ Build AI-powered Full Stack Applications
+* ✅ Learn Docker, CI/CD & Cloud Deployment
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -138,8 +176,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Building scalable software, contributing to open source, and continuously learning new technologies.
 
-*"Code. Learn. Build. Share. Repeat."*
+**"Code • Learn • Build • Share"**
 
 </div>
